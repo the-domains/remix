@@ -1,0 +1,14 @@
+layout_spectrum: 0.541554
+typography_spectrum: 0.6516658
+color:
+  saturation: 0.5551822
+  lightness: 0.8907683
+  brandStrength: 0.4366273
+  rhythmicContrast: 0.4213175
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: remix
