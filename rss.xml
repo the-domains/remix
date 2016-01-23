@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[remix]]></title>
         <description><![CDATA[remix]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/remix/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jan 2016 17:13:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 23 Jan 2016 17:27:24 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/remix/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Everything is a Remix ]]></title>
+            <description><![CDATA[<article><h1>Everything is a Remix </h1><p>T-shirts and posters can now be pre-ordered! http://everythingisaremix.info/merch/ --->Become my Patron for more free videos: www.patreon.com/kirbyferguson --->Check out my acclaimed new series: https://vimeo.com/ondemand/tinact For the first time, the whole series as a single video in HD.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2af6deba43d58851842cbac6bc1aec3ec7b4f664.jpg"></article>]]></description>
+            <link>https://thegrid.ai/remix/everything-is-a-remix/index.html</link>
+            <guid isPermaLink="false">06ec9dbb-4816-455d-86db-fb588cd306c2</guid>
+            <pubDate>Sat, 23 Jan 2016 17:23:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Creativity at Apple]]></title>
             <description><![CDATA[<h1>Creativity at Apple</h1>]]></description>
-            <link>undefinedcreativity-at-apple/index.html</link>
+            <link>https://thegrid.ai/remix/creativity-at-apple/index.html</link>
             <guid isPermaLink="false">3762fe5f-5760-43c5-9408-d34f77e74009</guid>
             <pubDate>Sat, 23 Jan 2016 17:13:00 GMT</pubDate>
         </item>
